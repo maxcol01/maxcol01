@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxcol01
 - 👀 I’m a Mechanical Engineer interested in Python programming (Machine learning and data science) but also web design and web application developments.
-- 🌱 I’m currently learning about deep learning using TensorFlow
+- 🌱 I’m currently learning about deep learning using TensorFlow (FCNN, CNN, RNN)
 - 📫 How to reach me maxcollet01@gmail.com
 
 <!---

@@ -12,11 +12,11 @@ Mechanical Engineer transitioning toward data science and AI-focused software de
 - Foundations of deep learning and modern ML workflows
 
 ### Education & Training
-- University of Liège
+- University of Liège - Phd and mechanical engineering degrees
 - CS50 — Introduction to Computer Science, Introduction to Cybersecurity (in progress)
-- Zero To Mastery
-- DataScientest (in progress)
-- FSO (starting soon)
+- Zero To Mastery - continuous learning
+- DataScientest - in progress
+- Full-Stack Open (University of Helinski) - in progress
 
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/maxime-collet-aab39ba3/

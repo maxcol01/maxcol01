@@ -16,7 +16,7 @@ Mechanical Engineer transitioning toward data science and AI-focused software de
 - CS50 — Introduction to Computer Science, Introduction to Cybersecurity (in progress)
 - Zero To Mastery - continuous learning
 - Liora (ex-DataScientest) - in progress
-- Full-Stack Open (University of Helinski) - in progress
+- Full-Stack Open (University of Helinski) - (scheduled 2027)
 
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/maxime-collet-aab39ba3/

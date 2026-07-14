@@ -15,7 +15,7 @@ Mechanical Engineer transitioning toward data science and AI-focused software de
 - University of Liège - Phd and mechanical engineering degrees
 - CS50 — Introduction to Computer Science, Introduction to Cybersecurity (in progress)
 - Zero To Mastery - continuous learning
-- Liora (ex-DataScientest) - Data Scientist path ([https://liora.io/en/courses/data-ai/data-scientist) (in progress)
+- Liora (ex-DataScientest) - Data Scientist path (https://liora.io/en/courses/data-ai/data-scientist) (in progress)
 - Full-Stack Open (University of Helinski) - (scheduled 2027)
 
 ### Contact
